@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello, I'm Aaron <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="150px" src="https://c.tenor.com/2Wu29iaHSYYAAAAi/coffee-lover-hot-coffee.gif" />
