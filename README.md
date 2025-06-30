@@ -7,7 +7,7 @@
 - 🌱 I am a pro audio engineer, full time IT, and amateur developer
 
 <!--START_SECTION:waka-->
-**Total ![visitor no](https://visitor-badge.glitch.me/badge?page_id=azbaron.azbaron&left_color=black&right_color=black)**
+
 
 <!--END_SECTION:waka-->
 
